@@ -100,6 +100,9 @@ export default function HeroSection() {
                     Альбом
                   </a>
                 </div>
+                <p className="text-base font-light text-white/70">
+                  Мой блог. Мой сайт.
+                </p>
                 <div className="flex gap-6 pt-4">
                   <a
                     href="https://t.me/just_met890"
