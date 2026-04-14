@@ -99,6 +99,14 @@ export default function HeroSection() {
                   >
                     Альбом
                   </a>
+                  <a
+                    href="https://t.me/keCwy24ns0xYUy"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-block border border-white/60 px-6 py-2 text-sm font-light tracking-widest text-white/90 transition-all duration-300 hover:border-white hover:bg-white/10 hover:text-white uppercase"
+                  >
+                    Канал Telegram
+                  </a>
                 </div>
                 <p className="text-base font-light text-white/70">
                   Мой блог. Мой сайт.
