@@ -70,14 +70,14 @@ export default function HeroSection() {
             >
               <div className="space-y-4">
                 <p className="text-3xl font-light text-white md:text-4xl lg:text-5xl">
-                  Алексей Иванов
+                  Игорь Немеров
                 </p>
                 <p className="text-xl font-light text-white/80 md:text-2xl">
-                  Креативный директор | Дизайнер
+                  just.met890
                 </p>
                 <div className="flex gap-6 pt-4">
                   <a
-                    href="https://t.me/"
+                    href="https://t.me/just_met890"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-white/70 transition-colors hover:text-white"
