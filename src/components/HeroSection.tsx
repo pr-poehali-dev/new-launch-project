@@ -75,7 +75,7 @@ export default function HeroSection() {
                 <p className="text-xl font-light text-white/80 md:text-2xl">
                   just.met890
                 </p>
-                <div className="pt-2">
+                <div className="flex flex-wrap gap-4 pt-2">
                   <a
                     href="https://band.link/YvTM2"
                     target="_blank"
@@ -83,6 +83,14 @@ export default function HeroSection() {
                     className="inline-block border border-white/60 px-6 py-2 text-sm font-light tracking-widest text-white/90 transition-all duration-300 hover:border-white hover:bg-white/10 hover:text-white uppercase"
                   >
                     Слушать музыку
+                  </a>
+                  <a
+                    href="https://band.link/tvCBc"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-block border border-white/60 px-6 py-2 text-sm font-light tracking-widest text-white/90 transition-all duration-300 hover:border-white hover:bg-white/10 hover:text-white uppercase"
+                  >
+                    Новый релиз
                   </a>
                 </div>
                 <div className="flex gap-6 pt-4">
