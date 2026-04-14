@@ -92,6 +92,14 @@ export default function HeroSection() {
                   >
                     Новый релиз
                   </a>
+                  <a
+                    href="https://band.link/GRjUj"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-block border border-white/60 px-6 py-2 text-sm font-light tracking-widest text-white/90 transition-all duration-300 hover:border-white hover:bg-white/10 hover:text-white uppercase"
+                  >
+                    Альбом
+                  </a>
                 </div>
                 <div className="flex gap-6 pt-4">
                   <a
