@@ -65,6 +65,17 @@ export default function HeroSection() {
           </svg>
           YouTube
         </a>
+        <a
+          href="https://max.ru/join/FfEYWseDCbsdJA3cx_8ProtYJPFBHXQfdF4vx5SRBzU"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-2 border border-white/60 px-5 py-2 text-sm font-light tracking-widest text-white/90 transition-all duration-300 hover:border-white hover:bg-white/10 hover:text-white uppercase"
+        >
+          <svg className="h-4 w-4" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.562 8.248-1.97 9.289c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.16.16-.295.295-.605.295l.213-3.053 5.56-5.023c.242-.213-.054-.333-.373-.12L7.48 14.602l-2.95-.924c-.641-.204-.654-.641.136-.953l11.527-4.448c.537-.194 1.006.131.37.971z"/>
+          </svg>
+          SHAMAN
+        </a>
       </div>
 
       <div className="relative z-10 flex h-full items-center">
