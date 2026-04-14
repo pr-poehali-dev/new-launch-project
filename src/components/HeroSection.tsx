@@ -42,6 +42,17 @@ export default function HeroSection() {
 
       <div className="absolute inset-0 bg-gradient-to-r from-black/90 via-black/50 to-transparent" />
 
+      <div className="absolute top-6 left-6 z-20">
+        <a
+          href="https://max.ru/join/iQYeNEuA26NEynG99p89SSgeYR7GtU-SoX3wFbk7Oos"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block border border-white/60 px-5 py-2 text-sm font-light tracking-widest text-white/90 transition-all duration-300 hover:border-white hover:bg-white/10 hover:text-white uppercase"
+        >
+          Max
+        </a>
+      </div>
+
       <div className="relative z-10 flex h-full items-center">
         <div className="container mx-auto px-8 md:px-16">
           <div className="flex max-w-2xl flex-col gap-12">
